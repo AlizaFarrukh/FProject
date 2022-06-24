@@ -5,7 +5,8 @@ public class Ball {
 	private float xDelta;
 	private float yDelta;
 	private int radius;
-	
+	private int number;
+
 	
 	
 	public Ball(float x, float y,  int radius,float xDelta, float yDelta) {
